@@ -1,4 +1,4 @@
-# Company Intelligence FAQ Chatbot
+# Enterprise Intelligence FAQ Chatbot
 *A production-grade, full-stack RAG starter using React + .NET 8 + Qdrant + OpenAI*
 
 This repository delivers a complete Retrieval-Augmented Generation (RAG) system that ingests company knowledge (PDF/TXT), stores embeddings in a vector database, and serves grounded answers through a modern chat UI.
