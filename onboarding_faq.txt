@@ -1,0 +1,6 @@
+Onboarding FAQ (Excerpt)
+Q: How do I get VPN access?
+A: Submit a request in the IT portal and expect approval within 24 hours.
+
+Q: What email do I use for vendor access?
+A: Use your alias@company.com address; SSO is enforced.
